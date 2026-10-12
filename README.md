@@ -4,7 +4,7 @@
 
 **Nan Hu\*, Yiyang Chen, Ruihui Li, Zhuo Tang, and Kenli Li**  
 College of Computer Science and Electronic Engineering, Hunan University, Changsha, China  
-\*Corresponding author: Nan Hu — hunan5@hnu.edu.cn
+
 
 ## Overview
 
